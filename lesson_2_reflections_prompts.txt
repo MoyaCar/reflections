@@ -1,2 +1,3 @@
-Las reflexiones de la clase 3!
+Las reflexiones de la clase 3
 
+the staging area ofrece la posibilidad de seleccionar què arvhivos de nuestro proyecto podrán ser trabajados, evitando así versionar archivos por demás. 
