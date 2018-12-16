@@ -5,3 +5,8 @@ the staging area ofrece la posibilidad de seleccionar què arvhivos de nuestro p
 
 Creo que la forma de utlizar la staging area para corroborar que hay un commit por cambio logico es comparando, tanto el diff --stage o con el diff a secas.
 
+comandos utiles. 
+git branch.... para ver las ramas del proyecto
+git branch *nombre ...crea el nombre de la rama.
+git checkout *nombre de la rama ... cambia la rama de trabajo.
+
