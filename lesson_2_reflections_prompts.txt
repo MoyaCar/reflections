@@ -1,3 +1,7 @@
 Las reflexiones de la clase 3
 
 the staging area ofrece la posibilidad de seleccionar què arvhivos de nuestro proyecto podrán ser trabajados, evitando así versionar archivos por demás. 
+
+
+Creo que la forma de utlizar la staging area para corroborar que hay un commit por cambio logico es comparando, tanto el diff --stage o con el diff a secas.
+
