@@ -10,3 +10,4 @@ git branch.... para ver las ramas del proyecto
 git branch *nombre ...crea el nombre de la rama.
 git checkout *nombre de la rama ... cambia la rama de trabajo.
 
+Deberia usar branches tanto para trabajar con otras personas, como para ir testeando funcionalidades experimentales. Si todo sale bien, en algun momento se deberian juntar. 
