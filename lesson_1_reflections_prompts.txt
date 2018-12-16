@@ -1,0 +1,19 @@
+Ayudó a sólo buscar en las lineas que cambiaron
+Eso me ahorró una banda de tiempo
+Como puede ayudarme tener accerso a al historial de mi trabajo?
+Simple, La comparación entre mi flujo de trabajo me permite reconocer dónde me desvié hacia algun punto problematico (o sulucionador). la comparación rápida entre lo que cambió y la posibilidad de volver a un punto seguro de trabajo.
+
+Commits son los checkpoints que definimos para que GIT guarde una versión.
+
+Los pro y los contra de hacerl un commit manual.
+Pro, es que podemos establecer un commit razonable, ni demasiado chico, ni demasiado grande. Importante a una función lógica. Atada a la subjetividad del programador y del gurpo de trabajo. Cosa que no podríamos definir facilmente con un sistema automatico de guardado. Que por su parte, como ventaja, nos permitiría guardar sin el trabajo de tener que hacerlo.
+
+Por qué el sitema git trabaja multiples archivos? Porque GIT está orientado a la programación, donde es casi norma trabajar con multiples archivos y donde algunos cambios pueden resultar simultaneos en varios archivos. En cambio Docs, no ve la correlación entre archivos. aunque esta exista.
+
+git log: Comando para ver el Log completo de commits. En esta vemos una lista de cambios. bajamos con las flechas, salimos preisonando la letra "q"
+
+git diff. Seleccionamos el id de los commit que deseamos comprar y le damamos enter. esto indicar'a con rojo, las lineas de código que fueron retirados. y con verde, las agregadas. Se baja con las flechas, se sale con "q"
+
+Al poder cambiar libremente de versiones hasta una versión funcional, es que puedo tomar riesgos sin miedo a perderme en el flujo de trabajo, uncluso si pasara un tiempo sin tocar el código.
+
+Tengo que usar git para poder llevar un repositorio de versiones, trabajar en conjunto, combinar proyectos, tener un seguro de errores, una herramienta comparativa entre versiones. 
