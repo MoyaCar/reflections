@@ -11,3 +11,7 @@ git branch *nombre ...crea el nombre de la rama.
 git checkout *nombre de la rama ... cambia la rama de trabajo.
 
 Deberia usar branches tanto para trabajar con otras personas, como para ir testeando funcionalidades experimentales. Si todo sale bien, en algun momento se deberian juntar. 
+
+Comandos utiles. git log --graph --oneline * nombre de rama *nombre de otra rama....(asi hasta el infinito)
+
+haciendo diagramas puedo visualizar mas claro que funcionalidades aun no han sido agregadas al proyecto. adem'as de cuanto ha avanzado el proyecto en si desde el primer desvio de rama.
