@@ -21,3 +21,5 @@ git show *id del archivo. lo compara con el archivo padre.
 
 El resultado de juntar dos ramas es un proyecto mucho mas completo para una version final con todos los agregados.
 Representamos el diagrama como tal, para entender cuando se separa una rama de la rama maestra. ademas asi podemos entender que queda fuera del proyecto.
+
+Las ventajas de Mergin manual es que podemos resolver los conflictos que se presenten en el codigo dada diferentes versiones. Un Merge automatico va a indicar que tales errores no surgieron.
