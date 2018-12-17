@@ -15,3 +15,9 @@ Deberia usar branches tanto para trabajar con otras personas, como para ir teste
 Comandos utiles. git log --graph --oneline * nombre de rama *nombre de otra rama....(asi hasta el infinito)
 
 haciendo diagramas puedo visualizar mas claro que funcionalidades aun no han sido agregadas al proyecto. adem'as de cuanto ha avanzado el proyecto en si desde el primer desvio de rama.
+
+Comandos utiles. git merge master *nombre de rama.
+git show *id del archivo. lo compara con el archivo padre. 
+
+El resultado de juntar dos ramas es un proyecto mucho mas completo para una version final con todos los agregados.
+Representamos el diagrama como tal, para entender cuando se separa una rama de la rama maestra. ademas asi podemos entender que queda fuera del proyecto.
